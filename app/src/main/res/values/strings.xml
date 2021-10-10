@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Login Page</string>
+    <string name="matn">matn</string>
+    <string name="logo_photo">logo photo</string>
+    <string name="textview">TextView</string>
+    <string name="Text1">سلام خدمت شما</string>
+</resources>
